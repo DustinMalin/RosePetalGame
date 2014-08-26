@@ -1,0 +1,9 @@
+M:\FreeLance\Next Level Gaming\RosePetalGame\RosePetalGame\bin\Debug\RosePetalGame.exe.config
+M:\FreeLance\Next Level Gaming\RosePetalGame\RosePetalGame\bin\Debug\RosePetalGame.exe
+M:\FreeLance\Next Level Gaming\RosePetalGame\RosePetalGame\bin\Debug\RosePetalGame.pdb
+M:\FreeLance\Next Level Gaming\RosePetalGame\RosePetalGame\obj\Debug\RosePetalGame.csprojResolveAssemblyReference.cache
+M:\FreeLance\Next Level Gaming\RosePetalGame\RosePetalGame\obj\Debug\RosePetalGame.Form1.resources
+M:\FreeLance\Next Level Gaming\RosePetalGame\RosePetalGame\obj\Debug\RosePetalGame.Properties.Resources.resources
+M:\FreeLance\Next Level Gaming\RosePetalGame\RosePetalGame\obj\Debug\RosePetalGame.csproj.GenerateResource.Cache
+M:\FreeLance\Next Level Gaming\RosePetalGame\RosePetalGame\obj\Debug\RosePetalGame.exe
+M:\FreeLance\Next Level Gaming\RosePetalGame\RosePetalGame\obj\Debug\RosePetalGame.pdb
